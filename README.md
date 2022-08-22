@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm a British web/graphic design consultant residing in Melbourne, Australia. I likes clean, commented code, great documentation and good ol' HTML and CSS. :smile: 
+
+
 
 <!--
 **ketanmistry/ketanmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
