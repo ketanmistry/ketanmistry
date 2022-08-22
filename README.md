@@ -10,3 +10,4 @@ For more information about me and the work I have done, check out my website: ht
 
 ----
 
+[![Profile banner for Ketan Mistry](https://github.com/ketanmistry/ketanmistry/raw/main/sketch-library-banner-large@2x.png)](https://iamketan.design/blog/sketch-sitemap-library)
