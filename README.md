@@ -1,3 +1,6 @@
+
+![iamketan_header@1 5x](https://user-images.githubusercontent.com/6877442/185830670-30cdfe5b-ab0a-4bc3-9187-c5eb44b6d290.png)
+
 ### Hey there 👋
 
 I'm a British web/graphic design consultant residing in Melbourne, Australia. I likes clean, commented code, great documentation and good ol' HTML and CSS. :smile: 
@@ -18,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
