@@ -1,24 +1,11 @@
 ![Profile banner for Ketan Mistry](https://github.com/ketanmistry/ketanmistry/raw/main/iamketan_header@1.5x.png)
 
-### Hey there 👋
+# Hey there 👋
 
-I'm a British web/graphic design consultant residing in Melbourne, Australia. I likes clean, commented code, great documentation and good ol' HTML and CSS. :smile: 
+I'm a British **Web Design Consultant** living in **Melbourne, Australia**. I've worked in the web and graphic design industry since **1998**, owning and running successful design studios in Greater Manchester, UK.
 
+My main focus for the last decade has been building and maintaining **ecommerce websites** for my clients, with the last few years being more involved with the **Shopify** platform.
 
+For more information about me and the work I have done, check out my website: https://iamketan.design.
 
-<!--
-**ketanmistry/ketanmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+----
