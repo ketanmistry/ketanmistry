@@ -6,6 +6,16 @@ I'm a British **Web Design Consultant** living in **Melbourne, Australia**. I've
 
 My main focus for the last decade has been building and maintaining **ecommerce websites** for my clients, with the last few years being more involved with the **Shopify** platform.
 
+I have industry experience in:
+
+- UI/UX design
+- Sketch
+- Shopify theme development
+- Google Cloud Platform
+- PHP and MySQL
+- HTML/CSS and JavaScript
+- VueJS
+
 For more information about me and the work I have done, check out my website: https://iamketan.design.
 
 ----
