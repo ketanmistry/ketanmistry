@@ -1,5 +1,4 @@
-
-![iamketan_header@1 5x](https://user-images.githubusercontent.com/6877442/185830670-30cdfe5b-ab0a-4bc3-9187-c5eb44b6d290.png)
+![Profile banner for Ketan Mistry](https://github.com/ketanmistry/ketanmistry/raw/main/iamketan_header@1.5x.png)
 
 ### Hey there 👋
 
