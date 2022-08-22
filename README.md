@@ -16,7 +16,7 @@ I have industry experience in:
 - HTML/CSS and JavaScript
 - VueJS
 
-For more information about me and the work I have done, check out my website: https://iamketan.design.
+For more information about me and the most recent work I have done, check out my website: https://iamketan.design.
 
 ----
 
