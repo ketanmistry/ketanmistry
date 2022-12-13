@@ -9,12 +9,14 @@ My main focus for the last decade has been building and maintaining **ecommerce 
 I have industry experience in:
 
 - UI/UX design
-- Sketch
+- Sketch and Figma
 - Shopify theme development
 - Google Cloud Platform
 - PHP and MySQL
 - HTML/CSS and JavaScript
 - VueJS
+- Jeykll
+- Netlify
 
 For more information about me and the most recent work I have done, check out my website: https://iamketan.design.
 
