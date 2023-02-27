@@ -10,6 +10,9 @@ I have industry experience in:
 
 - UI/UX design
 - Sketch and Figma
+- Adobe Illustrator
+- Adobe Photoshop
+- Affinity Designer
 - Shopify theme development
 - Google Cloud Platform
 - PHP and MySQL
