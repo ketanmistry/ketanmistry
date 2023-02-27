@@ -15,7 +15,7 @@ I have industry experience in:
 - PHP and MySQL
 - HTML/CSS and JavaScript
 - VueJS
-- Jeykll
+- Jekyll
 - Netlify
 
 For more information about me and the most recent work I have done, check out my website: https://iamketan.design.
