@@ -1,24 +1,9 @@
-![Profile banner for Ketan Mistry](https://github.com/ketanmistry/ketanmistry/raw/main/iamketan_header@1.5x.png)
+![Profile banner for Ketan Mistry](https://github.com/ketanmistry/ketanmistry/raw/main/Github-cover@2x.png)
 
-# Hello! 👋
+I got frustrated seeing the same looking Shopify stores everywhere. So, I built **Taillour** - A Shopify boilerplate theme that has no constraints to help **Designers design and Developers develop**.
 
-I'm a British **Web Design Consultant** living in **Cairns, Queensland, Australia**. I've worked in the web and graphic design industry since **1998**, owning and running successful design studios in Greater Manchester, UK.
+See https://taillourtheme.com for more information.
 
-My main focus for the last decade has been building and maintaining **ecommerce websites** for my clients, with the last few years being more involved with the **Shopify** platform.
+Ketan 👋
 
-I have industry experience in:
-
-- UI/UX design
-- Sketch and Figma
-- Adobe Illustrator
-- Adobe Photoshop
-- Affinity Designer
-- Shopify theme development
-- Google Cloud Platform
-- PHP and MySQL
-- HTML/CSS and JavaScript
-- VueJS
-- Jekyll
-- Netlify
-
-For more information about me and the most recent work I have done, check out my website: https://iamketan.design.
+> I'm a British **Web Design Consultant** living in **Cairns, Queensland, Australia**. I've worked in the web and graphic design industry since **1998**, owning and running successful design studios in Greater Manchester, UK.
