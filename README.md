@@ -16,8 +16,9 @@ With 25+ years of industry experience, I help design, build, and maintain Shopif
 
 ## 🛠 Top Skills
 
-- Shopify Platform
+- Shopify Web Design
 - HTML & CSS
+- PHP & MySQL
 - Web Design
 - Usability & UX
 
